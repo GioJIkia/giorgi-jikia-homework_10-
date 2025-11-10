@@ -14,8 +14,11 @@
   }
   .section-2-article-container {
     overflow-x: scroll;
+    width: 100%;
   }
   .section-2-article-card {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 298px;
     flex: 1 0 298px;
   }
   /* -------------- footer----------- */
