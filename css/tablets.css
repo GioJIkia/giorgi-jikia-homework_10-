@@ -6,6 +6,7 @@
   /* ------------------section-1-------------------- */
   .section-1 {
     height: 320px;
+    padding-block: 60px 220px;
   }
   span {
     font-size: 32px;
